@@ -35,3 +35,4 @@ tests/pc/windows/visual_studio/Debug/*
 vendors/nordic/boards/nrf52840-dk/aws_demos/bootloader/pca10056/ses/Output/*
 vendors/nordic/boards/nrf52840-dk/aws_demos/ses/Output/*
 demos/pc/windows/visual_studio/.vs/*
+demos/include/aws_clientcredential.h
